@@ -1,0 +1,21 @@
+1<!DOCTYPE html>
+<html>
+    <head>
+        <title>image displaying</title>
+    </head>
+    <body>
+        <img src="2.jpg">
+        <img src="../2.jpg" alt="jash">
+        
+
+    
+    </body>
+<style>
+    img
+    {
+        height: 90px;
+        width: 80px;
+
+    }
+</style>
+</html>
